@@ -1,6 +1,6 @@
-﻿#This was an attempt to collect details form WWAN cards and store in WMI for SCCM to collect during inventory.
-#It almost works but I havn't had the time to go back and finish it.
-#This is pieced together from various scripts on the internet plus my own additions and modifications.
+# This was an attempt to collect details form WWAN cards and store in WMI for SCCM to collect during inventory.
+# It almost works but I havn't had the time to go back and finish it.
+# This is pieced together from various scripts on the internet plus my own additions and modifications.
 
 # Creates a new class in WMI to store our data
 function Create-Wmi() {
